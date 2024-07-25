@@ -1,4 +1,23 @@
-{
-      "quote": "To be wronged is nothing, unless you continue to remember it.",
-      "author": "Confucius"
+[
+    {
+        "id": "ef54467b-6944-432e-b86a-7c4c63feadc7",
+      "quote": "The journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    {   
+        "id": "cdb052db-4eee-428b-8a1a-e3eab7d5493d",
+      "quote": "Sitting quietly, doing nothing, spring comes, and the grass grows by itself.",
+      "author": "Zen Proverb"
+    },
+    {
+        "id": "55ff1585-d52a-400f-b767-567a5557024b",
+      "quote": "Do not follow the idea of others, but learn to listen to the voice within yourself.",
+      "author": "Dōgen"
+    },
+    {
+        "id": "915eb248-8e95-4eff-9dd6-eb5cd59e307a",
+      "quote": "To seek is to suffer. To seek nothing is bliss.",
+      "author": "Bodhidharma"
     }
+
+  ]
